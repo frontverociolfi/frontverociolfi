@@ -36,7 +36,7 @@ My personal portfolio and technical blog built with Angular.
 
 A place where I share thoughts on frontend architecture, design systems, Angular, React and software craftsmanship.
 
-🔗 Live Site: https://frontverociolfi.github.io/vero-ciolfi
+🔗 Live Site: https://frontverociolfi.github.io/veronica-ciolfi
 
 🔗 Repository: https://github.com/frontverociolfi/vero-ciolfi
 
