@@ -54,7 +54,7 @@ A place where I share thoughts on frontend architecture, design systems, Angular
 
 ## 📫 Find Me
 
-🌐 Portfolio: https://frontverociolfi.github.io/vero-ciolfi
+🌐 Portfolio: https://frontverociolfi.github.io/veronica-ciolfi
 
 💼 LinkedIn: https://www.linkedin.com/in/veronica-ciolfi/
 
